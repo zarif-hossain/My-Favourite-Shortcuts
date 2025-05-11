@@ -52,6 +52,13 @@
 **Ctrl+Alt+l**
 :   Lock screen
 
+**Super+e**
+:   Opens Home file
+
+## Terminal
+**Ctrl+l**
+:   Clear terminal
+
 ## Launchers
 
 **Ctrl-Alt+t**
