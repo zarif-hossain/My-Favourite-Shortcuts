@@ -1,4 +1,4 @@
-# Docker Shortcuts
+# Docker Commands
 
 **List all Docker images**
 ```bash
