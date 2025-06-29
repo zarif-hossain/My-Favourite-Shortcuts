@@ -19,6 +19,12 @@
 **Ctrl+Shift+Alt+Right-Arrow**
 :   Move window to Right
 
+**Super+Shift+Right-Arrow**
+:   Move window to Right Monitor
+
+**Super+Shift+Left-Arrow**
+:   Move window to Left Monitor
+
 ## Windows
 
 **Ctrl+Alt+Down-Arrow**
