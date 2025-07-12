@@ -14,10 +14,10 @@
 :   Go forward in workspace
 
 **Ctrl+Shift+Alt+Left-Arrow**
-:   Move window to Left
+:   Move window to Left workspace
 
 **Ctrl+Shift+Alt+Right-Arrow**
-:   Move window to Right
+:   Move window to Right workspace
 
 **Super+Shift+Right-Arrow**
 :   Move window to Right Monitor
